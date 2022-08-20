@@ -6,5 +6,7 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 I'm an enthusiastic Web Software Developer and a hobby Smart Contract/Blockchain Developer.
+
 I love building user-friendly, beautiful React-Node.js applications and Smart Contracts using Solidity.
+
 I enjoy collaborating and I specialize in JavaScript and also have experience working with TypeScript.
