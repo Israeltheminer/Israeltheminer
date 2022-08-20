@@ -7,6 +7,6 @@
 
 I'm an enthusiastic Web Software Developer and a hobby Smart Contract/Blockchain Developer.
 
-I love building user-friendly, beautiful React-Node.js applications and Smart Contracts using Solidity.
+I love building user-friendly, beautiful React-Node.js applications, Smart Contracts using Solidity and I enjoy collaborating.
 
-I enjoy collaborating and I specialize in JavaScript and also have experience working with TypeScript.
+I specialize in JavaScript and also have experience working with TypeScript.
