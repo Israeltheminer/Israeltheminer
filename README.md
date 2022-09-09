@@ -5,7 +5,7 @@
 [![Israel Iyanda StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18093667/israeltheminer)
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
-I'm an enthusiastic Full-Stack Software Developer and a hobby Smart Contract/Blockchain Developer.
+I'm a Full-Stack Software Developer and a hobby Smart Contract/Blockchain Developer.
 
 I love building user-friendly, beautiful React-Node.js applications, Smart Contracts using Solidity and I enjoy collaborating.
 
