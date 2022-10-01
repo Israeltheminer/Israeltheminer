@@ -8,8 +8,7 @@
 </p>
 <br />
 
-<p align="center">I am an enthusiastic Full-Stack Software Developer and a hobby Smart Contract/Blockchain Developer.</p>
-<p>I love building user-friendly, beautiful React-Node.js applications and Smart Contracts using Solidity. I enjoy collaborating and contributing to open source to improve projects web accessibility.</p>
+<p align="center">I am an enthusiastic Full-Stack Software Developer. l build all aspects of the app functionality, user experience and user interface to create high performance and visually stunning React-Node.js applications for client-facing products. I enjoy collaborating and contributing to open source to improve projects web accessibility.</p>
 <br />
 
 <h3 align="center"> 💼 Languages and Tools</h3>
