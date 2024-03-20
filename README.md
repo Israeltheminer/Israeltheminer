@@ -1,13 +1,5 @@
  <h1 align="center"> Hi there, I'm Israel 👋 </h1>
 
-<p align="center">
- <a href="https://www.linkedin.com/in/israel-iyanda-8aab8a17b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="https://twitter.com/israeltheminer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- <a href="https://stackoverflow.com/users/18093667/israeltheminer"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
- <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
-</p>
-<br />
-
 <p align="center">I am an enthusiastic Frontend Software Developer. l build aspects of the frontend app functionality, user experience and user interface to create high performance and visually stunning React-Node.js applications for client-facing products. I enjoy collaborating and contributing to open source to improve projects web accessibility.</p>
 <br />
 
